@@ -1,0 +1,35 @@
+& C:/Users/Привет/AppData/Local/Programs/Python/Python313/python.exe
+streamlit run app.py
+pip show streamlit
+pip install streamlit
+pip show streamlit | Select-String "Location"
+ python -m streamlit run app.py
+python --version
+pip list
+python -m venv venv`
+.\venv\Scripts\activate`
+pip install streamlit sympy language-tool-python`
+streamlit run app.py
+м
+python --version
+# Проверка Python
+python --version
+# Проверка pip
+pip --version
+# Если не работает, попробуйте явные пути:
+$env:PATH += ";C:\Program Files\Python313\Scripts;C:\Program Files\Python313"
+python -c "print('Работает! ')"
+python --version`
+# Должно показать: Python 3.12.x`
+`
+pip --version`
+# Должно показать путь к pip
+python -m venv venv`
+.\venv\Scripts\activate`
+pip install streamlit sympy language-tool-python`
+streamlit run app.py
+python --version`
+# Должно показать: Python 3.12.x`
+`
+pip --version`
+# Должно показать путь к pip
